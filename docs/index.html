@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MEAL DEAL RATER 🥪🎰</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="scanlines"></div>
+
+  <div class="cabinet">
+    <!-- Header -->
+    <header class="cabinet-top">
+      <div class="marquee">
+        <h1 class="title">MEAL DEAL RATER</h1>
+        <div class="subtitle">🥪 PICK YOUR COMBO • SEE YOUR SCORE 🎰</div>
+      </div>
+      <div class="light-strip">
+        <span class="bulb"></span><span class="bulb"></span><span class="bulb"></span>
+        <span class="bulb"></span><span class="bulb"></span><span class="bulb"></span>
+        <span class="bulb"></span><span class="bulb"></span><span class="bulb"></span>
+        <span class="bulb"></span><span class="bulb"></span><span class="bulb"></span>
+      </div>
+    </header>
+
+    <!-- Slot Machine Reels -->
+    <div class="reels-container">
+      <div class="reel-group">
+        <!-- MAIN -->
+        <div class="reel" id="reel-main">
+          <div class="reel-label">🥖 MAIN</div>
+          <div class="reel-window">
+            <div class="reel-track" id="track-main"></div>
+          </div>
+          <div class="reel-controls">
+            <button class="arrow-btn up" data-reel="main" data-dir="up">▲</button>
+            <button class="arrow-btn down" data-reel="main" data-dir="down">▼</button>
+          </div>
+        </div>
+
+        <!-- SNACK -->
+        <div class="reel" id="reel-snack">
+          <div class="reel-label">🥨 SNACK</div>
+          <div class="reel-window">
+            <div class="reel-track" id="track-snack"></div>
+          </div>
+          <div class="reel-controls">
+            <button class="arrow-btn up" data-reel="snack" data-dir="up">▲</button>
+            <button class="arrow-btn down" data-reel="snack" data-dir="down">▼</button>
+          </div>
+        </div>
+
+        <!-- DRINK -->
+        <div class="reel" id="reel-drink">
+          <div class="reel-label">🥤 DRINK</div>
+          <div class="reel-window">
+            <div class="reel-track" id="track-drink"></div>
+          </div>
+          <div class="reel-controls">
+            <button class="arrow-btn up" data-reel="drink" data-dir="up">▲</button>
+            <button class="arrow-btn down" data-reel="drink" data-dir="down">▼</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Action Buttons -->
+    <div class="action-bar">
+      <button class="btn-spin" id="btn-rate">⭐ RATE MY DEAL ⭐</button>
+      <button class="btn-random" id="btn-random">🎲 RANDOM</button>
+    </div>
+
+    <!-- Score Display -->
+    <div class="score-panel" id="score-panel">
+      <div class="score-display" id="score-display">
+        <div class="score-label">SCORE</div>
+        <div class="score-digits" id="score-digits">
+          <span class="digit" id="digit-tens">-</span>
+          <span class="digit-dot">.</span>
+          <span class="digit" id="digit-ones">-</span>
+          <span class="score-suffix">/10</span>
+        </div>
+        <div class="score-bar-container">
+          <div class="score-bar" id="score-bar"></div>
+        </div>
+        <div class="score-verdict" id="score-verdict"></div>
+        <div class="score-meta" id="score-meta"></div>
+      </div>
+    </div>
+
+    <!-- Comments Section -->
+    <div class="comments-panel" id="comments-panel">
+      <div class="comments-header">💬 REDDIT SAYS...</div>
+      <div class="comments-list" id="comments-list"></div>
+      <a class="reddit-link" id="reddit-link" href="#" target="_blank">VIEW ON REDDIT →</a>
+    </div>
+
+    <!-- No Match State -->
+    <div class="no-match-panel" id="no-match-panel">
+      <div class="no-match-icon">🤷</div>
+      <div class="no-match-text">NO ONE HAS RATED THIS COMBO YET!</div>
+      <div class="no-match-sub">Try a different combination or hit RANDOM</div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="cabinet-footer">
+      <div class="credit">DATA FROM <a href="https://www.reddit.com/r/MealDealRates/" target="_blank">r/MealDealRates</a></div>
+      <div class="credit">MADE BY <a href="https://www.jiayanlin.xyz" target="_blank">JIAYAN LIN</a></div>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

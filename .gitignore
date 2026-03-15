@@ -1,4 +1,11 @@
+# Python
 scraper/venv/
-scraper/config.py
 __pycache__/
 *.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+echo ".env" >> .gitignore

@@ -1,0 +1,302 @@
+{
+  "generated_at": "2026-03-15T12:00:00",
+  "total_deals": 18,
+  "labelled_deals": 18,
+  "items": {
+    "main": [
+      "blt sandwich",
+      "chicken & bacon sandwich",
+      "chicken club sandwich",
+      "egg mayo sandwich",
+      "ham & cheese sandwich",
+      "prawn mayo sandwich",
+      "tuna crunch sandwich",
+      "ploughman's sandwich",
+      "southern fried chicken wrap",
+      "falafel wrap"
+    ],
+    "snack": [
+      "doritos chilli heatwave",
+      "hula hoops original",
+      "mccoys salt & vinegar",
+      "monster munch pickled onion",
+      "pom-bear original",
+      "skips prawn cocktail",
+      "walkers cheese & onion",
+      "walkers ready salted",
+      "mini cheddars original",
+      "naked bar"
+    ],
+    "drink": [
+      "coca-cola 500ml",
+      "diet coke 500ml",
+      "fanta orange 500ml",
+      "innocent smoothie",
+      "lucozade orange",
+      "oasis citrus punch",
+      "ribena blackcurrant",
+      "volvic water 500ml",
+      "monster energy",
+      "yazoo chocolate milk"
+    ]
+  },
+  "deals": [
+    {
+      "id": "post001",
+      "score": 9.2,
+      "num_ratings": 15,
+      "vendor": "tesco",
+      "items": {"main": "chicken club sandwich", "snack": "doritos chilli heatwave", "drink": "oasis citrus punch"},
+      "top_comments": [
+        {"text": "9/10 absolutely elite combo, the doritos carry this", "author": "mealdealgod99", "rating": 9.0},
+        {"text": "The holy trinity. 10/10", "author": "sandwichking", "rating": 10.0},
+        {"text": "Oasis is the GOAT meal deal drink. Solid 9/10", "author": "lunchreviewer", "rating": 9.0}
+      ],
+      "image_url": "https://i.redd.it/example1.jpg",
+      "permalink": "https://www.reddit.com/r/MealDealRates/comments/example1",
+      "title": "Today's Tesco meal deal - thoughts?"
+    },
+    {
+      "id": "post002",
+      "score": 3.1,
+      "num_ratings": 22,
+      "vendor": "boots",
+      "items": {"main": "egg mayo sandwich", "snack": "pom-bear original", "drink": "volvic water 500ml"},
+      "top_comments": [
+        {"text": "2/10 this is genuinely depressing", "author": "crispcritic", "rating": 2.0},
+        {"text": "Pom bears in a meal deal? Are you 5 years old? 3/10", "author": "snackjudge", "rating": 3.0},
+        {"text": "The water is such a waste of the deal. At least get a juice", "author": "dealoptimiser", "rating": 4.0}
+      ],
+      "image_url": "https://i.redd.it/example2.jpg",
+      "permalink": "https://www.reddit.com/r/MealDealRates/comments/example2",
+      "title": "Rate my Boots meal deal"
+    },
+    {
+      "id": "post003",
+      "score": 7.5,
+      "num_ratings": 8,
+      "vendor": "sainsburys",
+      "items": {"main": "chicken & bacon sandwich", "snack": "walkers cheese & onion", "drink": "lucozade orange"},
+      "top_comments": [
+        {"text": "7/10 classic combo, can't go wrong", "author": "lunchlad", "rating": 7.0},
+        {"text": "Lucozade is a solid choice. 8/10", "author": "drinkrater", "rating": 8.0}
+      ],
+      "image_url": "https://i.redd.it/example3.jpg",
+      "permalink": "https://www.reddit.com/r/MealDealRates/comments/example3",
+      "title": "Sainsbury's never lets me down"
+    },
+    {
+      "id": "post004",
+      "score": 5.0,
+      "num_ratings": 12,
+      "vendor": "tesco",
+      "items": {"main": "ham & cheese sandwich", "snack": "walkers ready salted", "drink": "diet coke 500ml"},
+      "top_comments": [
+        {"text": "5/10 safe but boring. Live a little mate", "author": "flavourpolice", "rating": 5.0},
+        {"text": "Ready salted? In THIS economy? 4/10", "author": "crispconnoisseur", "rating": 4.0}
+      ],
+      "image_url": "https://i.redd.it/example4.jpg",
+      "permalink": "https://www.reddit.com/r/MealDealRates/comments/example4",
+      "title": "Basic but reliable"
+    },
+    {
+      "id": "post005",
+      "score": 8.8,
+      "num_ratings": 19,
+      "vendor": "tesco",
+      "items": {"main": "southern fried chicken wrap", "snack": "mccoys salt & vinegar", "drink": "monster energy"},
+      "top_comments": [
+        {"text": "9/10 this is what peak performance looks like", "author": "gymmealdeal", "rating": 9.0},
+        {"text": "Monster and a wrap is such a power move. 8/10", "author": "energyking", "rating": 8.0},
+        {"text": "McCoys are underrated in a meal deal. Proper heft. 9/10", "author": "crispweight", "rating": 9.0}
+      ],
+      "image_url": "https://i.redd.it/example5.jpg",
+      "permalink": "https://www.reddit.com/r/MealDealRates/comments/example5",
+      "title": "The builder's special"
+    },
+    {
+      "id": "post006",
+      "score": 6.3,
+      "num_ratings": 7,
+      "vendor": "co-op",
+      "items": {"main": "blt sandwich", "snack": "hula hoops original", "drink": "ribena blackcurrant"},
+      "top_comments": [
+        {"text": "6/10 decent but the co-op BLT is mid", "author": "sandwichscout", "rating": 6.0},
+        {"text": "Ribena is class though. 7/10", "author": "juicejudge", "rating": 7.0}
+      ],
+      "image_url": "https://i.redd.it/example6.jpg",
+      "permalink": "https://www.reddit.com/r/MealDealRates/comments/example6",
+      "title": "Co-op lunch run"
+    },
+    {
+      "id": "post007",
+      "score": 2.1,
+      "num_ratings": 25,
+      "vendor": "whsmith",
+      "items": {"main": "tuna crunch sandwich", "snack": "naked bar", "drink": "volvic water 500ml"},
+      "top_comments": [
+        {"text": "1/10 this costs £5 at WHSmith and it's not even good", "author": "pricewatch", "rating": 1.0},
+        {"text": "Tuna at WHSmith is a crime against humanity. 2/10", "author": "trainmealdeal", "rating": 2.0},
+        {"text": "Naked bar and water... you ok mate? 3/10", "author": "snacktherapist", "rating": 3.0}
+      ],
+      "image_url": "https://i.redd.it/example7.jpg",
+      "permalink": "https://www.reddit.com/r/MealDealRates/comments/example7",
+      "title": "WHSmith at the train station, judge me"
+    },
+    {
+      "id": "post008",
+      "score": 7.8,
+      "num_ratings": 11,
+      "vendor": "tesco",
+      "items": {"main": "ploughman's sandwich", "snack": "monster munch pickled onion", "drink": "innocent smoothie"},
+      "top_comments": [
+        {"text": "8/10 ploughman's is so slept on", "author": "cheeselover", "rating": 8.0},
+        {"text": "Monster munch AND a smoothie? Chaotic neutral energy. 7/10", "author": "flavourprofile", "rating": 7.0}
+      ],
+      "image_url": "https://i.redd.it/example8.jpg",
+      "permalink": "https://www.reddit.com/r/MealDealRates/comments/example8",
+      "title": "Rate my ploughman's combo"
+    },
+    {
+      "id": "post009",
+      "score": 4.2,
+      "num_ratings": 14,
+      "vendor": "sainsburys",
+      "items": {"main": "prawn mayo sandwich", "snack": "skips prawn cocktail", "drink": "fanta orange 500ml"},
+      "top_comments": [
+        {"text": "Double prawn is unhinged. 4/10", "author": "flavourclash", "rating": 4.0},
+        {"text": "Prawn sandwich AND prawn crisps?? Pick a lane. 3/10", "author": "themedeal", "rating": 3.0},
+        {"text": "At least the Fanta is good. 5/10", "author": "orangefan", "rating": 5.0}
+      ],
+      "image_url": "https://i.redd.it/example9.jpg",
+      "permalink": "https://www.reddit.com/r/MealDealRates/comments/example9",
+      "title": "Don't judge me"
+    },
+    {
+      "id": "post010",
+      "score": 8.1,
+      "num_ratings": 16,
+      "vendor": "tesco",
+      "items": {"main": "falafel wrap", "snack": "doritos chilli heatwave", "drink": "oasis citrus punch"},
+      "top_comments": [
+        {"text": "8/10 falafel wrap is elite and this is the perfect supporting cast", "author": "vegandeals", "rating": 8.0},
+        {"text": "Oasis + Doritos is the meta. 9/10", "author": "mealdealstrategy", "rating": 9.0}
+      ],
+      "image_url": "https://i.redd.it/example10.jpg",
+      "permalink": "https://www.reddit.com/r/MealDealRates/comments/example10",
+      "title": "The veggie special"
+    },
+    {
+      "id": "post011",
+      "score": 6.7,
+      "num_ratings": 9,
+      "vendor": "boots",
+      "items": {"main": "chicken club sandwich", "snack": "walkers cheese & onion", "drink": "coca-cola 500ml"},
+      "top_comments": [
+        {"text": "7/10 Boots chicken club is actually decent", "author": "bootsfan", "rating": 7.0},
+        {"text": "Safe picks all round. 6/10", "author": "plainsafer", "rating": 6.0}
+      ],
+      "image_url": "https://i.redd.it/example11.jpg",
+      "permalink": "https://www.reddit.com/r/MealDealRates/comments/example11",
+      "title": "Boots lunch"
+    },
+    {
+      "id": "post012",
+      "score": 9.5,
+      "num_ratings": 28,
+      "vendor": "tesco",
+      "items": {"main": "chicken & bacon sandwich", "snack": "doritos chilli heatwave", "drink": "lucozade orange"},
+      "top_comments": [
+        {"text": "10/10 this is literally the perfect meal deal", "author": "mealdealchampion", "rating": 10.0},
+        {"text": "Chicken bacon + doritos + lucozade. The trifecta. 9/10", "author": "comboking", "rating": 9.0},
+        {"text": "I have this exact combo every day. Never gets old. 10/10", "author": "dailydealer", "rating": 10.0}
+      ],
+      "image_url": "https://i.redd.it/example12.jpg",
+      "permalink": "https://www.reddit.com/r/MealDealRates/comments/example12",
+      "title": "The GOAT meal deal"
+    },
+    {
+      "id": "post013",
+      "score": 5.5,
+      "num_ratings": 6,
+      "vendor": "morrisons",
+      "items": {"main": "egg mayo sandwich", "snack": "mini cheddars original", "drink": "yazoo chocolate milk"},
+      "top_comments": [
+        {"text": "5/10 egg mayo is always a gamble", "author": "eggskeptic", "rating": 5.0},
+        {"text": "Yazoo saves this. 6/10", "author": "milkfan", "rating": 6.0}
+      ],
+      "image_url": "https://i.redd.it/example13.jpg",
+      "permalink": "https://www.reddit.com/r/MealDealRates/comments/example13",
+      "title": "Morrisons trip"
+    },
+    {
+      "id": "post014",
+      "score": 7.0,
+      "num_ratings": 10,
+      "vendor": "tesco",
+      "items": {"main": "southern fried chicken wrap", "snack": "walkers cheese & onion", "drink": "coca-cola 500ml"},
+      "top_comments": [
+        {"text": "7/10 the wrap does the heavy lifting here", "author": "wraplover", "rating": 7.0}
+      ],
+      "image_url": "https://i.redd.it/example14.jpg",
+      "permalink": "https://www.reddit.com/r/MealDealRates/comments/example14",
+      "title": "Wrap life"
+    },
+    {
+      "id": "post015",
+      "score": 1.5,
+      "num_ratings": 18,
+      "vendor": "unknown",
+      "items": {"main": "egg mayo sandwich", "snack": "pom-bear original", "drink": "volvic water 500ml"},
+      "top_comments": [
+        {"text": "0/10 this is a war crime", "author": "mealdealcourt", "rating": 0.0},
+        {"text": "Egg mayo, pom bears, and WATER? Seek help. 2/10", "author": "intervention", "rating": 2.0},
+        {"text": "I refuse to believe this is real. 1/10", "author": "denier", "rating": 1.0}
+      ],
+      "image_url": "https://i.redd.it/example15.jpg",
+      "permalink": "https://www.reddit.com/r/MealDealRates/comments/example15",
+      "title": "Am I doing this wrong"
+    },
+    {
+      "id": "post016",
+      "score": 8.4,
+      "num_ratings": 13,
+      "vendor": "sainsburys",
+      "items": {"main": "chicken club sandwich", "snack": "mccoys salt & vinegar", "drink": "innocent smoothie"},
+      "top_comments": [
+        {"text": "8/10 smoothie is the big brain play for value", "author": "valuemaxxer", "rating": 8.0},
+        {"text": "McCoys + chicken club is unbeatable. 9/10", "author": "texturefan", "rating": 9.0}
+      ],
+      "image_url": "https://i.redd.it/example16.jpg",
+      "permalink": "https://www.reddit.com/r/MealDealRates/comments/example16",
+      "title": "Sainsbury's finest"
+    },
+    {
+      "id": "post017",
+      "score": 6.0,
+      "num_ratings": 5,
+      "vendor": "tesco",
+      "items": {"main": "blt sandwich", "snack": "walkers ready salted", "drink": "diet coke 500ml"},
+      "top_comments": [
+        {"text": "6/10 aggressively average", "author": "averagejoe", "rating": 6.0}
+      ],
+      "image_url": "https://i.redd.it/example17.jpg",
+      "permalink": "https://www.reddit.com/r/MealDealRates/comments/example17",
+      "title": "Nothing special"
+    },
+    {
+      "id": "post018",
+      "score": 7.2,
+      "num_ratings": 7,
+      "vendor": "co-op",
+      "items": {"main": "tuna crunch sandwich", "snack": "monster munch pickled onion", "drink": "ribena blackcurrant"},
+      "top_comments": [
+        {"text": "7/10 monster munch is always the right call", "author": "munchfan", "rating": 7.0},
+        {"text": "Tuna crunch from co-op is actually decent. 8/10", "author": "tunadefender", "rating": 8.0}
+      ],
+      "image_url": "https://i.redd.it/example18.jpg",
+      "permalink": "https://www.reddit.com/r/MealDealRates/comments/example18",
+      "title": "Co-op underrated honestly"
+    }
+  ]
+}
