@@ -1,0 +1,4 @@
+scraper/venv/
+scraper/config.py
+__pycache__/
+*.pyc
